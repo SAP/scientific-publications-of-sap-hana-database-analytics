@@ -4,8 +4,6 @@
 
 List of scientific publications from SAP HANA Database & Analytics
 
-# Scientific Publications of SAP HANA Database & Analytics
-
 ## Publications
 
 ### 2023
