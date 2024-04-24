@@ -6,6 +6,11 @@ List of scientific publications from SAP HANA Database & Analytics
 
 ## Publications
 
+### 2024
+
+- David Justen, [Daniel Ritter](https://dblp.org/pid/82/8248.html), Campbell Fraser, Andrew Lamb, Nga Tran, Allison Lee, Thomas Bodner, Mhd Yamen Haddad, Steffen Zeuch, Volker Markl, Matthias Boehm:
+POLAR: Adaptive and Non-invasive Join Order Selection via Plans of Least Resistance. Proc. VLDB Endow. 17(6): 1350-1363 (2024) [[Paper](https://www.vldb.org/pvldb/vol17/p1350-justen.pdf)]
+
 ### 2023
 
 - Donghun Lee, Thomas Willhalm, Minseon Ahn, Suprasad Mutalik Desai, Daniel Booss, Navneet Singh, [Daniel Ritter](https://dblp.org/pid/82/8248.html), Jungmin Kim, Oliver Rebholz: Elastic Use of Far Memory for In-Memory Database Management Systems, DaMoN '23 [[Paper](https://doi.org/10.1145/3592980.3595311)]
