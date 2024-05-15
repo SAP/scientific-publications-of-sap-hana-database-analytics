@@ -28,7 +28,7 @@ POLAR: Adaptive and Non-invasive Join Order Selection via Plans of Least Resista
 - Jaesik Yoon, Yi-Fu Wu, Heechul Bae, Sungjin Ahn: An Investigation into Pre-Training Object-Centric Representations for Reinforcement Learning, ICML 2023 [[Paper](https://arxiv.org/abs/2302.04419)]
 - Yongsik Kwon, Seonho Lee, Yehyun Nam, Joong Chae Na, Kunsoo Park, Sang K. Cha, Bongki Moon: DB+-tree: A new variant of B+-tree for main-memory database systems, Information Systems, vol 119, 2023 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306437923001230)]
 - Andrew Chang, Jaemin Jung, Minseon Ahn, DongHun Lee, Vincent Pham, Shuyu Lyu, Jungmin Kim, Oliver Rebholz: Expanding System Memory Boundaries Through CXL-Enabled Device - A Case Study of CXL Memory Expander for In-memory Database Management Systems, MemCon 2023 [[Paper](https://samsungmsl.com/wp-content/uploads/2023/03/MemCon2023.pdf)]
--Yang Xu, Chao Liu, Yong Li, Qiaoluan Xie, Hyun-Deok Choi: A Method of Component Prediction for Crash Bug Reports Using Component-Based Features and Machine Learning, SANER 2023 [[Paper]([https://samsungmsl.com/wp-content/uploads/2023/03/MemCon2023.pdf](https://ieeexplore.ieee.org/document/10123465)]
+- Yang Xu, Chao Liu, Yong Li, Qiaoluan Xie, Hyun-Deok Choi: A Method of Component Prediction for Crash Bug Reports Using Component-Based Features and Machine Learning, SANER 2023 [[Paper](https://ieeexplore.ieee.org/document/10123465)]
 
 
 ### 2022
@@ -54,7 +54,7 @@ POLAR: Adaptive and Non-invasive Join Order Selection via Plans of Least Resista
 - Robert Lasch, Thomas Legler, [Norman May](https://dblp.org/pid/89/6071.html), Bernhard Scheirle, Kai-Uwe Sattler: Cost Modelling for Optimal Data Placement in Heterogeneous Main Memory, VLDB 2022 [[Paper](https://www.vldb.org/pvldb/vol15/p2867-lasch.pdf)]
 - Monica Chiosa, Fabio Maschi, Ingo Müller, Gustavo Alonso, Norman May: Hardware Acceleration of Compression and Encryption in SAP HANA, VLDB 2022 [[Paper]](https://www.vldb.org/pvldb/vol15/p3277-chiosa.pdf)
 - Mehdi Moghaddamfar, Christian Färber, [Norman May](https://dblp.org/pid/89/6071.html), Wolfgang Lehner, Akash Kumar: FPGA-Based Database Query Processing on Arbitrarily Wide Tables, FCCM 2022, [[Paper]](https://ieeexplore.ieee.org/document/9786091/)
-- Antonios Ntroumpogiannis, Michail Giannoulis, Nikolaos Myrtakis, Vassilis Christophides, Eric Simon, and Ioannis Tsamardinos: A Meta-level Analysis of Online Anomaly Detectors, <https://arxiv.org/abs/2209.05899>, 2022
+- Antonios Ntroumpogiannis, Michail Giannoulis, Nikolaos Myrtakis, Vassilis Christophides, Eric Simon, and Ioannis Tsamardinos: A Meta-level Analysis of Online Anomaly Detectors, 2022, [[Paper](https://arxiv.org/abs/2209.05899)]
 
 ### 2021
 
