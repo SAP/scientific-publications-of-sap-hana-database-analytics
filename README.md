@@ -10,8 +10,11 @@ List of scientific publications from SAP HANA Database & Analytics
 
 - David Justen, [Daniel Ritter](https://dblp.org/pid/82/8248.html), Campbell Fraser, Andrew Lamb, Nga Tran, Allison Lee, Thomas Bodner, Mhd Yamen Haddad, Steffen Zeuch, Volker Markl, Matthias Boehm:
 POLAR: Adaptive and Non-invasive Join Order Selection via Plans of Least Resistance. Proc. VLDB Endow. 17(6): 1350-1363 (2024) [[Paper](https://www.vldb.org/pvldb/vol17/p1350-justen.pdf)]
-
 - Alexander Berndt, Sebastian Baltes, Thomas Bach: Taming Timeout Flakiness: An Empirical Study of SAP HANA, ICSE SEIP 2024 [[Paper](https://arxiv.org/abs/2402.05223)]
+- Minseon Ahn, Thomas Willhalm, Norman May, Donghun Lee, Suprasad Mutalik Desai, Daniel Booss, Jungmin Kim, Navneet Singh, Daniel Ritter, Oliver Rebholz: An Examination of CXL Memory Use Cases for In-Memory Database Management Systems using SAP HANA. Proc. VLDB Endow. 17(12): 3827-3840 (2024) [[paper](https://www.vldb.org/pvldb/vol17/p3827-ahn.pdf)]
+- Wonseok Lee, Jaehyun Ha, Wook-Shin Han, Changgyoo Park, Myunggon Park, Juhyeng Han: DoppelGanger++ in Action: A Database Replay System with Fast Dependency Graph Generation, Proc. VLDB Endow. 17(12) (2024 demo. track)
+- Junmo Cho, Jaesik Yoon, Sungjin Ahn: Spatially-Aware Transformers for Embodied Agents, ICLR 2024 [[paper]( https://arxiv.org/abs/2402.15160)]
+- Subin Kim, Hany Hamed, Dongyeoung Kim, Jaesik Yoon, Sungjin Ahn: Dr. Strategy: Model-Based Generalist Agents with Strategic Dreaming, ICML 2024 [[paper]( https://arxiv.org/abs/2402.18866)]
 
 ### 2023
 
