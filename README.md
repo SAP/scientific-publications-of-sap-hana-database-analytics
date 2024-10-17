@@ -8,7 +8,8 @@ List of scientific publications from SAP HANA Database & Analytics
 
 ### 2024
 
-- Neetha Jambigi, Joshua Hammesfahr, Moritz Mueller, Thomas Bach, Michael Felderer. On Enhancing Root Cause Analysis with SQL Summaries for Failures in Database Workload Replays at SAP HANA. ISSRE 2024
+- Alexander Berndt, Thomas Bach, and Sebastian Baltes: Do Test and Environmental Complexity Increase Flakiness? An Empirical Study of SAP HANA, ESEM 2024. [[Paper](https://arxiv.org/abs/2409.10062)]
+- Neetha Jambigi, Joshua Hammesfahr, Moritz Mueller, Thomas Bach, Michael Felderer: On Enhancing Root Cause Analysis with SQL Summaries for Failures in Database Workload Replays at SAP HANA, ISSRE 2024
 - David Justen, [Daniel Ritter](https://dblp.org/pid/82/8248.html), Campbell Fraser, Andrew Lamb, Nga Tran, Allison Lee, Thomas Bodner, Mhd Yamen Haddad, Steffen Zeuch, Volker Markl, Matthias Boehm: POLAR: Adaptive and Non-invasive Join Order Selection via Plans of Least Resistance. Proc. VLDB Endow. 17(6): 1350-1363 (2024) [[Paper](https://www.vldb.org/pvldb/vol17/p1350-justen.pdf)]
 - Alexander Berndt, Sebastian Baltes, Thomas Bach: Taming Timeout Flakiness: An Empirical Study of SAP HANA, ICSE SEIP 2024 [[Paper](https://arxiv.org/abs/2402.05223)]
 - Minseon Ahn, Thomas Willhalm, Norman May, Donghun Lee, Suprasad Mutalik Desai, Daniel Booss, Jungmin Kim, Navneet Singh, Daniel Ritter, Oliver Rebholz: An Examination of CXL Memory Use Cases for In-Memory Database Management Systems using SAP HANA. Proc. VLDB Endow. 17(12): 3827-3840 (2024) [[paper](https://www.vldb.org/pvldb/vol17/p3827-ahn.pdf)]
