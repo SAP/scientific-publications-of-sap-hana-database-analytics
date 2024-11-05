@@ -8,6 +8,11 @@ List of scientific publications from SAP HANA Database & Analytics
 
 ### 2024
 
+- Lyu, Zhan, Thomas Bach, Yong Li, Nguyen Minh Le, and Lars Hoemke: BIPeC: A Combined Change-Point Analyzer to Identify Performance Regressions in Large-scale Database Systems. ICSME 2024. [[Paper](https://arxiv.org/abs/2408.12414)]
+- Yang Xu, Yong Li, Qiaoluan Xie, Chao Liu, Xiaoxiao Zhang, Thomas Bach, Sunghun Kim and Sanghun Kang: CrashChecker: A Fusion Method for Clustering Duplicate Crash Failures in SAP HANA Delivery. ISSRE 2024.
+- An, Gabin, Juyeon Yoon, Thomas Bach, Jingun Hong, and Shin Yoo: Just-in-time flaky test detection via abstracted failure symptom matching. ICSME 2024. [[Paper](https://arxiv.org/abs/2310.06298)]
+- Andreas Boltres, Niklas Freymuth, Patrick Jahnke, Holger Karl and Gerhard Neumann: Learning Sub-Second Routing Optimization in Computer Networks Requires Packet-Level Dynamics. Transactions on Machine Learning Research, 2024. [[Paper](https://openreview.net/pdf?id=H95g8UpYKY)]
+- Haitham Afifi, Sabrina Pochaba, Andreas Boltres, Dominic Laniewski, Janek Haberer, Paeleke Leonard, Reza Poorzare, Daniel Stolpmann, Nikolas Wehner, Adrian Redder, Eric Samikwa and Michael Seufert: Machine Learning with Computer Networks: Techniques, Datasets and Models. IEEE Access, vol. 12, pp. 54673-54720, 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10489950)]
 - Alexander Berndt, Thomas Bach, and Sebastian Baltes: Do Test and Environmental Complexity Increase Flakiness? An Empirical Study of SAP HANA, ESEM 2024. [[Paper](https://arxiv.org/abs/2409.10062)]
 - Neetha Jambigi, Joshua Hammesfahr, Moritz Mueller, Thomas Bach, Michael Felderer: On Enhancing Root Cause Analysis with SQL Summaries for Failures in Database Workload Replays at SAP HANA, ISSRE 2024
 - David Justen, [Daniel Ritter](https://dblp.org/pid/82/8248.html), Campbell Fraser, Andrew Lamb, Nga Tran, Allison Lee, Thomas Bodner, Mhd Yamen Haddad, Steffen Zeuch, Volker Markl, Matthias Boehm: POLAR: Adaptive and Non-invasive Join Order Selection via Plans of Least Resistance. Proc. VLDB Endow. 17(6): 1350-1363 (2024) [[Paper](https://www.vldb.org/pvldb/vol17/p1350-justen.pdf)]
