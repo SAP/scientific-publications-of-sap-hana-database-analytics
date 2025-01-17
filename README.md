@@ -24,6 +24,7 @@ List of scientific publications from SAP HANA Database & Analytics
 
 ### 2023
 
+- Vaisakh Shaj, Saleh Gholam Zadeh, Ozan Demir, Luiz Ricardo Douat and Gerhard Neumann: Multi Time Scale World Models. Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS) 2023. [[Paper](https://openreview.net/forum?id=fY7dShbtmo)]
 - Julian Reck, Thomas Bach, Jan Stoess: A Multidimensional Analysis of Bug Density in SAP HANA, ESEC/FSE 2023 [[Paper](https://doi.org/10.1145/3611643.3613875)]
 - Alexander Berndt, Zoltán Nochta, Thomas Bach: The Vocabulary of Flaky Tests in the Context of SAP HANA, ESEM 2023 [[Paper](https://ieeexplore.ieee.org/document/10304860)]
 - Donghun Lee, Thomas Willhalm, Minseon Ahn, Suprasad Mutalik Desai, Daniel Booss, Navneet Singh, [Daniel Ritter](https://dblp.org/pid/82/8248.html), Jungmin Kim, Oliver Rebholz: Elastic Use of Far Memory for In-Memory Database Management Systems, DaMoN '23 [[Paper](https://doi.org/10.1145/3592980.3595311)]
