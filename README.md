@@ -6,6 +6,10 @@ List of scientific publications from SAP HANA Database & Analytics
 
 ## Publications
 
+### 2025
+
+- Saleh Gholam Zadeh, Vaisakh Shaj, Patrick Jahnke, Gerhard Neumann, and Tim Breitenbach: Towards measuring predictability: To which extent data-driven approaches can extract deterministic relations from data exemplified with time series prediction and classification. Transactions on Machine Learning Research, 2025. [[Paper](https://openreview.net/forum?id=jZBAVFGUUo)]
+
 ### 2024
 
 - Lyu, Zhan, Thomas Bach, Yong Li, Nguyen Minh Le, and Lars Hoemke: BIPeC: A Combined Change-Point Analyzer to Identify Performance Regressions in Large-scale Database Systems. ICSME 2024. [[Paper](https://arxiv.org/abs/2408.12414)]
