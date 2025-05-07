@@ -8,6 +8,7 @@ List of scientific publications from SAP HANA Database & Analytics
 
 ### 2025
 
+- Jaesik Yoon, Hyeonseo Cho, Doojin Baek, Yoshua Bengio, Sungjin Ahn: Monte Carlo Tree Diffusion for System 2 Planning. ICML 2025, Spotlight [[Paper](https://arxiv.org/abs/2502.07202)]
 - Boris Gruschko, Kihong Kim, Hyunjun Kim, Taehyung Lee, Michael Mueller, Daniel Ritter: Elastic Compute in SAP HANA Cloud by Example of SAP Integrated Business Planning. Datenbank-Spektrum 25(1): 5-16 (2025) [[Paper](https://link.springer.com/article/10.1007/s13222-025-00497-6)]
 - Thomas Bodner, Daniel Ritter, Martin Boissier, Tilmann Rabl: Skyrise: Exploiting Serverless Cloud Infrastructure for Elastic Data Processing. Datenbank-Spektrum 25(1): 29-38 (2025) [[Paper](https://link.springer.com/article/10.1007/s13222-025-00496-7)]
 - Adrian Lutsch, Muhammad El-Hindi, Matthias Heinrich, Daniel Ritter, Zsolt István, Carsten Binnig: Benchmarking Analytical Query Processing in Intel SGXv2. EDBT 2025: 516-528 [[Paper](https://openproceedings.org/2025/conf/edbt/paper-71.pdf)]
