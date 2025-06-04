@@ -17,6 +17,8 @@ List of scientific publications from SAP HANA Database & Analytics
 
 ### 2024
 
+- Reza Rabieyan, Ramin Yahyapour, Patrick Jahnke, Optimization of containerized application deployment in virtualized environments: a novel mathematical framework for resource-efficient and energy-aware server infrastructure, The Journal of Supercomputing, Springer [[paper](https://link.springer.com/article/10.1007/s11227-024-06304-5)]
+- Reza Rabieyan, Ramin Yahyapour, Patrick Jahnke, Optimizing Resource Consumption and Reducing Power Usage in Data Centers, A Novel Mathematical VM Replacement Model and Efficient Algorithm, Journal of Grid Computing, Springer [[paper](https://link.springer.com/article/10.1007/s10723-024-09772-4)]
 - Lyu, Zhan, Thomas Bach, Yong Li, Nguyen Minh Le, and Lars Hoemke: BIPeC: A Combined Change-Point Analyzer to Identify Performance Regressions in Large-scale Database Systems. ICSME 2024. [[Paper](https://arxiv.org/abs/2408.12414)]
 - Yang Xu, Yong Li, Qiaoluan Xie, Chao Liu, Xiaoxiao Zhang, Thomas Bach, Sunghun Kim and Sanghun Kang: CrashChecker: A Fusion Method for Clustering Duplicate Crash Failures in SAP HANA Delivery. ISSRE 2024.
 - An, Gabin, Juyeon Yoon, Thomas Bach, Jingun Hong, and Shin Yoo: Just-in-time flaky test detection via abstracted failure symptom matching. ICSME 2024. [[Paper](https://arxiv.org/abs/2310.06298)]
