@@ -8,6 +8,9 @@ List of scientific publications from SAP HANA Database & Analytics
 
 ### 2025
 
+- Neetha Jambigi, Marc Tuerke, Bartosz Bogacz, Thomas Bach, and Michael Felderer: Unlocking New Practical Advantages of Machine Learning via Generating Large Amounts of High-Quality Data about Software Faults. 5th International CI/CD Industry Workshop (CCIW 2025).
+- Neetha Jambigi, Bartosz Bogacz, Moritz Mueller, Thomas Bach, and Michael Felderer: Fault Localization via Fine-tuning Large Language Models with Mutation Generated Stack Traces. 2025 IEEE Conference on Software Testing, Verification and Validation (ICST). [[Paper](https://arxiv.org/pdf/2501.18005)]
+- Jeongki Son, Gabin An, Jingun Hong, and Shin Yoo: Evaluating Machine Learning-Based Test Case Prioritization in the Real World: An Experiment with SAP HANA. 2025 IEEE Conference on Software Testing, Verification and Validation (ICST) [[Paper](https://coinse.github.io/publications/pdfs/Son2025aa.pdf)]
 - Jaesik Yoon, Hyeonseo Cho, Doojin Baek, Yoshua Bengio, Sungjin Ahn: Monte Carlo Tree Diffusion for System 2 Planning. ICML 2025, Spotlight [[Paper](https://arxiv.org/abs/2502.07202)]
 - Boris Gruschko, Kihong Kim, Hyunjun Kim, Taehyung Lee, Michael Mueller, Daniel Ritter: Elastic Compute in SAP HANA Cloud by Example of SAP Integrated Business Planning. Datenbank-Spektrum 25(1): 5-16 (2025) [[Paper](https://link.springer.com/article/10.1007/s13222-025-00497-6)]
 - Thomas Bodner, Daniel Ritter, Martin Boissier, Tilmann Rabl: Skyrise: Exploiting Serverless Cloud Infrastructure for Elastic Data Processing. Datenbank-Spektrum 25(1): 29-38 (2025) [[Paper](https://link.springer.com/article/10.1007/s13222-025-00496-7)]
