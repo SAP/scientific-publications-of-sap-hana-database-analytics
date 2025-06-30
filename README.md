@@ -58,6 +58,7 @@ List of scientific publications from SAP HANA Database & Analytics
 
 ### 2022
 
+- Neetha Jambigi, Thomas Bach, Felix Schabernack, Michael Felderer: Automatic Error Classification and Root Cause Determination while Replaying Recorded Workload Data at SAP HANA. ICST 2022. [[Paper](https://arxiv.org/pdf/2205.08029)]
 - Michael Perscheid, Hasso Plattner, [Daniel Ritter](https://dblp.org/pid/82/8248.html), Rainer Schlosser, Ralf Teusner: Das Fachgebiet "Enterprise Platform and Integration Concepts" am Hasso-Plattner-Institut, Datenbank-Spektrum 22 [[Paper](https://doi.org/10.1007/s13222-022-00412-3)]
 - Michael Perscheid, Hasso Plattner, [Daniel Ritter](https://dblp.org/pid/82/8248.html), Rainer Schlosser, Ralf Teusner: Enterprise Platform and Integration Concepts Research at HPI, SIGMOD Record 51 [[Paper](https://doi.org/10.1145/3582302.3582322)]
 - Thomas Bodner, Tobias Pietz, Lars Jonas Bollmeier, [Daniel Ritter](https://dblp.org/pid/82/8248.html): Doppler: Understanding Serverless Query Execution, BIDEDE@SIGMOD 2022 [[Paper](https://doi.org/10.1145/3530050.3532919)]
