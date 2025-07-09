@@ -20,6 +20,7 @@ List of scientific publications from SAP HANA Database & Analytics
 
 ### 2024
 
+- Tim Keller: Thinktank: Leveraging LLM Reasoning for Advanced Task Execution in CI/CD. CCIW 2024
 - Reza Rabieyan, Ramin Yahyapour, Patrick Jahnke, Optimization of containerized application deployment in virtualized environments: a novel mathematical framework for resource-efficient and energy-aware server infrastructure, The Journal of Supercomputing, Springer [[paper](https://link.springer.com/article/10.1007/s11227-024-06304-5)]
 - Reza Rabieyan, Ramin Yahyapour, Patrick Jahnke, Optimizing Resource Consumption and Reducing Power Usage in Data Centers, A Novel Mathematical VM Replacement Model and Efficient Algorithm, Journal of Grid Computing, Springer [[paper](https://link.springer.com/article/10.1007/s10723-024-09772-4)]
 - Lyu, Zhan, Thomas Bach, Yong Li, Nguyen Minh Le, and Lars Hoemke: BIPeC: A Combined Change-Point Analyzer to Identify Performance Regressions in Large-scale Database Systems. ICSME 2024. [[Paper](https://arxiv.org/abs/2408.12414)]
@@ -37,8 +38,10 @@ List of scientific publications from SAP HANA Database & Analytics
 - Subin Kim, Hany Hamed, Dongyeoung Kim, Jaesik Yoon, Sungjin Ahn: Dr. Strategy: Model-Based Generalist Agents with Strategic Dreaming, ICML 2024 [[paper](https://arxiv.org/abs/2402.18866)]
 - Fatih Gey, Cédric Hebert, Holger Mack: Zero to Trust? Bringing Application-level Intelligence at scale to Detection Engineering, CSR24 [[paper](https://ieeexplore.ieee.org/abstract/document/10679457)]
 
+
 ### 2023
 
+- Marc Türke, Bartosz Bogacz, Eric Heim, Torsten Mandel, Stephan Kraft: Predicting Compiler Resource Utilization. CCIW 2023
 - Vaisakh Shaj, Saleh Gholam Zadeh, Ozan Demir, Luiz Ricardo Douat and Gerhard Neumann: Multi Time Scale World Models. Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS) 2023. [[Paper](https://openreview.net/forum?id=fY7dShbtmo)]
 - Julian Reck, Thomas Bach, Jan Stoess: A Multidimensional Analysis of Bug Density in SAP HANA, ESEC/FSE 2023 [[Paper](https://doi.org/10.1145/3611643.3613875)]
 - Alexander Berndt, Zoltán Nochta, Thomas Bach: The Vocabulary of Flaky Tests in the Context of SAP HANA, ESEM 2023 [[Paper](https://ieeexplore.ieee.org/document/10304860)]
