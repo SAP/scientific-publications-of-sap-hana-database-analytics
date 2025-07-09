@@ -8,10 +8,21 @@ List of scientific publications from SAP HANA Database & Analytics
 
 ### 2025
 
+- Neetha Jambigi, Marc Tuerke, Bartosz Bogacz, Thomas Bach, and Michael Felderer: Unlocking New Practical Advantages of Machine Learning via Generating Large Amounts of High-Quality Data about Software Faults. 5th International CI/CD Industry Workshop (CCIW 2025).
+- Neetha Jambigi, Bartosz Bogacz, Moritz Mueller, Thomas Bach, and Michael Felderer: Fault Localization via Fine-tuning Large Language Models with Mutation Generated Stack Traces. 2025 IEEE Conference on Software Testing, Verification and Validation (ICST). [[Paper](https://arxiv.org/pdf/2501.18005)]
+- Jeongki Son, Gabin An, Jingun Hong, and Shin Yoo: Evaluating Machine Learning-Based Test Case Prioritization in the Real World: An Experiment with SAP HANA. 2025 IEEE Conference on Software Testing, Verification and Validation (ICST) [[Paper](https://coinse.github.io/publications/pdfs/Son2025aa.pdf)]
+- Jaesik Yoon, Hyeonseo Cho, Doojin Baek, Yoshua Bengio, Sungjin Ahn: Monte Carlo Tree Diffusion for System 2 Planning. ICML 2025, Spotlight [[Paper](https://arxiv.org/abs/2502.07202)]
+- Boris Gruschko, Kihong Kim, Hyunjun Kim, Taehyung Lee, Michael Mueller, Daniel Ritter: Elastic Compute in SAP HANA Cloud by Example of SAP Integrated Business Planning. Datenbank-Spektrum 25(1): 5-16 (2025) [[Paper](https://link.springer.com/article/10.1007/s13222-025-00497-6)]
+- Thomas Bodner, Daniel Ritter, Martin Boissier, Tilmann Rabl: Skyrise: Exploiting Serverless Cloud Infrastructure for Elastic Data Processing. Datenbank-Spektrum 25(1): 29-38 (2025) [[Paper](https://link.springer.com/article/10.1007/s13222-025-00496-7)]
+- Adrian Lutsch, Muhammad El-Hindi, Matthias Heinrich, Daniel Ritter, Zsolt István, Carsten Binnig: Benchmarking Analytical Query Processing in Intel SGXv2. EDBT 2025: 516-528 [[Paper](https://openproceedings.org/2025/conf/edbt/paper-71.pdf)]
+- Thomas Bodner, Theo Radig, David Justen, Daniel Ritter, Tilmann Rabl: An Empirical Evaluation of Serverless Cloud Infrastructure for Large-Scale Data Processing. EDBT 2025: 935-948 [[Paper](https://openproceedings.org/2025/conf/edbt/paper-239.pdf)]
 - Saleh Gholam Zadeh, Vaisakh Shaj, Patrick Jahnke, Gerhard Neumann, and Tim Breitenbach: Towards measuring predictability: To which extent data-driven approaches can extract deterministic relations from data exemplified with time series prediction and classification. Transactions on Machine Learning Research, 2025. [[Paper](https://openreview.net/forum?id=jZBAVFGUUo)]
 
 ### 2024
 
+- Tim Keller: Thinktank: Leveraging LLM Reasoning for Advanced Task Execution in CI/CD. CCIW 2024
+- Reza Rabieyan, Ramin Yahyapour, Patrick Jahnke, Optimization of containerized application deployment in virtualized environments: a novel mathematical framework for resource-efficient and energy-aware server infrastructure, The Journal of Supercomputing, Springer [[paper](https://link.springer.com/article/10.1007/s11227-024-06304-5)]
+- Reza Rabieyan, Ramin Yahyapour, Patrick Jahnke, Optimizing Resource Consumption and Reducing Power Usage in Data Centers, A Novel Mathematical VM Replacement Model and Efficient Algorithm, Journal of Grid Computing, Springer [[paper](https://link.springer.com/article/10.1007/s10723-024-09772-4)]
 - Lyu, Zhan, Thomas Bach, Yong Li, Nguyen Minh Le, and Lars Hoemke: BIPeC: A Combined Change-Point Analyzer to Identify Performance Regressions in Large-scale Database Systems. ICSME 2024. [[Paper](https://arxiv.org/abs/2408.12414)]
 - Yang Xu, Yong Li, Qiaoluan Xie, Chao Liu, Xiaoxiao Zhang, Thomas Bach, Sunghun Kim and Sanghun Kang: CrashChecker: A Fusion Method for Clustering Duplicate Crash Failures in SAP HANA Delivery. ISSRE 2024.
 - An, Gabin, Juyeon Yoon, Thomas Bach, Jingun Hong, and Shin Yoo: Just-in-time flaky test detection via abstracted failure symptom matching. ICSME 2024. [[Paper](https://arxiv.org/abs/2310.06298)]
@@ -27,8 +38,10 @@ List of scientific publications from SAP HANA Database & Analytics
 - Subin Kim, Hany Hamed, Dongyeoung Kim, Jaesik Yoon, Sungjin Ahn: Dr. Strategy: Model-Based Generalist Agents with Strategic Dreaming, ICML 2024 [[paper](https://arxiv.org/abs/2402.18866)]
 - Fatih Gey, Cédric Hebert, Holger Mack: Zero to Trust? Bringing Application-level Intelligence at scale to Detection Engineering, CSR24 [[paper](https://ieeexplore.ieee.org/abstract/document/10679457)]
 
+
 ### 2023
 
+- Marc Türke, Bartosz Bogacz, Eric Heim, Torsten Mandel, Stephan Kraft: Predicting Compiler Resource Utilization. CCIW 2023
 - Vaisakh Shaj, Saleh Gholam Zadeh, Ozan Demir, Luiz Ricardo Douat and Gerhard Neumann: Multi Time Scale World Models. Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS) 2023. [[Paper](https://openreview.net/forum?id=fY7dShbtmo)]
 - Julian Reck, Thomas Bach, Jan Stoess: A Multidimensional Analysis of Bug Density in SAP HANA, ESEC/FSE 2023 [[Paper](https://doi.org/10.1145/3611643.3613875)]
 - Alexander Berndt, Zoltán Nochta, Thomas Bach: The Vocabulary of Flaky Tests in the Context of SAP HANA, ESEM 2023 [[Paper](https://ieeexplore.ieee.org/document/10304860)]
@@ -48,6 +61,7 @@ List of scientific publications from SAP HANA Database & Analytics
 
 ### 2022
 
+- Neetha Jambigi, Thomas Bach, Felix Schabernack, Michael Felderer: Automatic Error Classification and Root Cause Determination while Replaying Recorded Workload Data at SAP HANA. ICST 2022. [[Paper](https://arxiv.org/pdf/2205.08029)]
 - Michael Perscheid, Hasso Plattner, [Daniel Ritter](https://dblp.org/pid/82/8248.html), Rainer Schlosser, Ralf Teusner: Das Fachgebiet "Enterprise Platform and Integration Concepts" am Hasso-Plattner-Institut, Datenbank-Spektrum 22 [[Paper](https://doi.org/10.1007/s13222-022-00412-3)]
 - Michael Perscheid, Hasso Plattner, [Daniel Ritter](https://dblp.org/pid/82/8248.html), Rainer Schlosser, Ralf Teusner: Enterprise Platform and Integration Concepts Research at HPI, SIGMOD Record 51 [[Paper](https://doi.org/10.1145/3582302.3582322)]
 - Thomas Bodner, Tobias Pietz, Lars Jonas Bollmeier, [Daniel Ritter](https://dblp.org/pid/82/8248.html): Doppler: Understanding Serverless Query Execution, BIDEDE@SIGMOD 2022 [[Paper](https://doi.org/10.1145/3530050.3532919)]
