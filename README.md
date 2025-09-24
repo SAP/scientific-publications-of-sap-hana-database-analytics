@@ -8,6 +8,7 @@ List of scientific publications from SAP HANA Database & Analytics
 
 ### 2025
 
+- Mehryar Majd, Feng Cheng, Ali Pahlevan, and Christoph Meinel: Right-sizing Recommendations (RSR): Cloud Workload Conformal Prediction for Virtual Machines in Data Center Operations (WI-IAT 2025)
 - Boris Gruschko, Kihong Kim, Hyunjun Kim, Taehyung Lee, Michael Mueller, Daniel Ritter: Elastic Compute in SAP HANA Cloud by Example of SAP Integrated Business Planning. Datenbank-Spektrum 25(1): 5-16 (2025)
 - Minseon Ahn, Thomas Willhalm, Donghun Lee, Norman May, Jungmin Kim, Daniel Ritter, Oliver Rebholz: Exploiting Locality in Flat Memory with CXL for In-Memory Database Management Systems. DaMoN 2025: 1:1-1:9
 - Kihong Kim, Hyunwook Kim, Jinsu Lee, Taehyung Lee, Alexander Böhm, Norman May, Guido Moerkotte, Daniel Ritter, Ralf Dentzer, Heiko Gerwens, Irena Kofman, Mihnea Andrei: Enterprise Application-Database Co-Innovation for Hybrid Transactional/Analytical Processing: A Virtual Data Model and Its Query Optimization Needs. SIGMOD Conference Companion 2025: 485-498
