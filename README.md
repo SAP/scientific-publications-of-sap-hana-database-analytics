@@ -8,6 +8,10 @@ List of scientific publications from SAP HANA Database & Analytics
 
 ### 2025
 
+- Boris Gruschko, Kihong Kim, Hyunjun Kim, Taehyung Lee, Michael Mueller, Daniel Ritter: Elastic Compute in SAP HANA Cloud by Example of SAP Integrated Business Planning. Datenbank-Spektrum 25(1): 5-16 (2025)
+- Minseon Ahn, Thomas Willhalm, Donghun Lee, Norman May, Jungmin Kim, Daniel Ritter, Oliver Rebholz: Exploiting Locality in Flat Memory with CXL for In-Memory Database Management Systems. DaMoN 2025: 1:1-1:9
+- Kihong Kim, Hyunwook Kim, Jinsu Lee, Taehyung Lee, Alexander Böhm, Norman May, Guido Moerkotte, Daniel Ritter, Ralf Dentzer, Heiko Gerwens, Irena Kofman, Mihnea Andrei: Enterprise Application-Database Co-Innovation for Hybrid Transactional/Analytical Processing: A Virtual Data Model and Its Query Optimization Needs. SIGMOD Conference Companion 2025: 485-498
+- Norman May, Alexander Böhm, Daniel Ritter, Frank Renkes, Mihnea Andrei, Wolfgang Lehner: SAP HANA Cloud: Data Management for Modern Enterprise Applications. SIGMOD Conference Companion 2025: 580-592
 - Neetha Jambigi, Marc Tuerke, Bartosz Bogacz, Thomas Bach, and Michael Felderer: Unlocking New Practical Advantages of Machine Learning via Generating Large Amounts of High-Quality Data about Software Faults. 5th International CI/CD Industry Workshop (CCIW 2025).
 - Neetha Jambigi, Bartosz Bogacz, Moritz Mueller, Thomas Bach, and Michael Felderer: Fault Localization via Fine-tuning Large Language Models with Mutation Generated Stack Traces. 2025 IEEE Conference on Software Testing, Verification and Validation (ICST). [[Paper](https://arxiv.org/pdf/2501.18005)]
 - Jeongki Son, Gabin An, Jingun Hong, and Shin Yoo: Evaluating Machine Learning-Based Test Case Prioritization in the Real World: An Experiment with SAP HANA. 2025 IEEE Conference on Software Testing, Verification and Validation (ICST) [[Paper](https://coinse.github.io/publications/pdfs/Son2025aa.pdf)]
