@@ -8,6 +8,7 @@ List of scientific publications from SAP HANA Database & Analytics
 
 ### 2025
 
+- Chansong You, Hyun Deok Choi, Jingun Hong: LLM-Based Repair of C++ Implicit Data Loss Compiler Warnings: An Industrial Case Study. Accepted on 6th International Workshop on Automated Program Repair (APR 2025), co-located with ICSE 2025, Ottawa, Canada. [[Paper](https://arxiv.org/abs/2601.14936)]
 - Daniel Ritter, Mihnea Andrei, Sukhyeun Cho, Maik Görgens, Taehyung Lee, Norman May, Amit Pathak, Paul R Willems: The HANA Native Query Engine for Lakehouse Systems. Proc. VLDB Endow. 18(12) 4831-4845 (2025) [[Paper](https://www.vldb.org/pvldb/vol18/p4831-ritter.pdf)]
 - Mehryar Majd, Feng Cheng, Ali Pahlevan, and Christoph Meinel: Right-sizing Recommendations (RSR): Cloud Workload Conformal Prediction for Virtual Machines in Data Center Operations (WI-IAT 2025)
 - Boris Gruschko, Kihong Kim, Hyunjun Kim, Taehyung Lee, Michael Mueller, Daniel Ritter: Elastic Compute in SAP HANA Cloud by Example of SAP Integrated Business Planning. Datenbank-Spektrum 25(1): 5-16 (2025)
