@@ -6,8 +6,15 @@ List of scientific publications from SAP HANA Database & Analytics
 
 ## Publications
 
+### 2026
+
+- Daniel Lindner, Daniel Ritter, Felix Naumann: Unleashing Data Dependency-based Query Optimization. EDBT 2026: 516-529
+- Donghun Lee, Minseon Ahn, Jungmin Kim, Jaemin Jung, Norman May, Daniel Ritter, Jongmin Gim, Heekwon Park, Changho Choi, Yang-Seok Ki: Exploring Dynamic Memory Allocation of CXL Memory Pools in Enterprise In-Memory Database Management Systems. EDBT 2026: 687-695
+
 ### 2025
 
+- Michail Georgoulakis Misegiannis, Daniel Ritter, Viktor Leis, Jana Giceva: CloudGlide: Deconstructing the Landscape of Cloud-Based Analytics. Proc. VLDB Endow. 18(13): 5638-5651 (2025)
+- Jonas Dann, Tobias Götz, Daniel Ritter, Jana Giceva, Holger Fröning, Gustavo Alonso: GraphMatch: Subgraph Query Processing on Steroids. Proc. ACM Manag. Data 3(6): 1-26 (2025)
 - Chansong You, Hyun Deok Choi, Jingun Hong: LLM-Based Repair of C++ Implicit Data Loss Compiler Warnings: An Industrial Case Study. Accepted on 6th International Workshop on Automated Program Repair (APR 2025), co-located with ICSE 2025, Ottawa, Canada. [[Paper](https://arxiv.org/abs/2601.14936)]
 - Daniel Ritter, Mihnea Andrei, Sukhyeun Cho, Maik Görgens, Taehyung Lee, Norman May, Amit Pathak, Paul R Willems: The HANA Native Query Engine for Lakehouse Systems. Proc. VLDB Endow. 18(12) 4831-4845 (2025) [[Paper](https://www.vldb.org/pvldb/vol18/p4831-ritter.pdf)]
 - Mehryar Majd, Feng Cheng, Ali Pahlevan, and Christoph Meinel: Right-sizing Recommendations (RSR): Cloud Workload Conformal Prediction for Virtual Machines in Data Center Operations (WI-IAT 2025)
