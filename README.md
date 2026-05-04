@@ -8,6 +8,10 @@ List of scientific publications from SAP HANA Database & Analytics
 
 ### 2026
 
+- Alexander Berndt, Thomas Bach, Rainer Gemulla, Marcus Kessel, Sebastian Baltes: On the Flakiness of LLM-Generated Tests for Industrial and Open-Source Database Management Systems. ICSE-SEIP 2026
+- Alexander Berndt, Vekil Bekmyradov, Rainer Gemulla, Marcus Kessel, Thomas Bach, Sebastian Baltes: Can We Classify Flaky Tests Using Only Test Code?. SANER 2026
+- Alexander Berndt, Thomas Bach, Sebastian Baltes: Flaky Tests in a Large Industrial Database Management System: An Empirical Study of Fixed Issue Reports for SAP HANA. FTW 2026
+- Alexander Berndt, Vekil Bekmyradov, Thomas Bach, Sebastian Baltes: Evaluating Signals for Membership Inference Attacks on Source Code. FSE-AIWare Joint Competition 2026
 - Daniel Lindner, Daniel Ritter, Felix Naumann: Unleashing Data Dependency-based Query Optimization. EDBT 2026: 516-529
 - Donghun Lee, Minseon Ahn, Jungmin Kim, Jaemin Jung, Norman May, Daniel Ritter, Jongmin Gim, Heekwon Park, Changho Choi, Yang-Seok Ki: Exploring Dynamic Memory Allocation of CXL Memory Pools in Enterprise In-Memory Database Management Systems. EDBT 2026: 687-695
 
