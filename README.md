@@ -14,6 +14,7 @@ List of scientific publications from SAP HANA Database & Analytics
 - Alexander Berndt, Vekil Bekmyradov, Thomas Bach, Sebastian Baltes: Evaluating Signals for Membership Inference Attacks on Source Code. FSE-AIWare Joint Competition 2026
 - Daniel Lindner, Daniel Ritter, Felix Naumann: Unleashing Data Dependency-based Query Optimization. EDBT 2026: 516-529
 - Donghun Lee, Minseon Ahn, Jungmin Kim, Jaemin Jung, Norman May, Daniel Ritter, Jongmin Gim, Heekwon Park, Changho Choi, Yang-Seok Ki: Exploring Dynamic Memory Allocation of CXL Memory Pools in Enterprise In-Memory Database Management Systems. EDBT 2026: 687-695
+- [Günes Aluç](https://dblp.org/pers/hd/a/Alu=ccedil=:G=uuml=nes), Daniel J. Farrar, Manoj Kumar Sharma, Weibing Zhang: Overlay Bitmap Encoding for Efficient Consumption of Apache Parquet Files. VLDB 2026
 
 ### 2025
 
@@ -103,6 +104,7 @@ List of scientific publications from SAP HANA Database & Analytics
 - Monica Chiosa, Fabio Maschi, Ingo Müller, Gustavo Alonso, Norman May: Hardware Acceleration of Compression and Encryption in SAP HANA, VLDB 2022 [[Paper]](https://www.vldb.org/pvldb/vol15/p3277-chiosa.pdf)
 - Mehdi Moghaddamfar, Christian Färber, [Norman May](https://dblp.org/pid/89/6071.html), Wolfgang Lehner, Akash Kumar: FPGA-Based Database Query Processing on Arbitrarily Wide Tables, FCCM 2022, [[Paper]](https://ieeexplore.ieee.org/document/9786091/)
 - Antonios Ntroumpogiannis, Michail Giannoulis, Nikolaos Myrtakis, Vassilis Christophides, Eric Simon, and Ioannis Tsamardinos: A Meta-level Analysis of Online Anomaly Detectors, 2022, [[Paper](https://arxiv.org/abs/2209.05899)]
+- Sagar Shedge, Nishant Sharma, Anant Agarwal, Mohammed Abouzour, [Günes Aluç](https://dblp.org/pers/hd/a/Alu=ccedil=:G=uuml=nes): An Extended SSD-Based Cache for Efficient Object Store Access in SAP IQ. ICDE 2022. [[Paper](https://ieeexplore.ieee.org/document/9835410)]
 
 ### 2021
 
@@ -119,6 +121,8 @@ List of scientific publications from SAP HANA Database & Analytics
 - Yi-Fu Wu, Jaesik Yoon and Sungjin Ahn: Generative Video Transformer: Can Objects be the Words?, ICML 2021
 - Chang Chen, Jaesik Yoon, Yi-Fu Wu, Sungjin Ahn: TransDreamer: Reinforcement Learning with Transformer World models, NeurIPS 2021, Reinforcement Learning Workshop
 - Hyunjoon Kim, Yunyoung Choi, Kunsoo Park, Xuemin Lin, Seok-Hee Hong, and Wook-Shin Han: Versatile Equivalences: Speeding up Subgraph Query Processing and Subgraph Matching. SIGMOD 2021
+- Xiao Meng, [Günes Aluç](https://dblp.org/pers/hd/a/Alu=ccedil=:G=uuml=nes): Exploratory Data Analysis in SAP IQ Using Query-Time Sampling. ICDE 2021. [[Paper](https://ieeexplore.ieee.org/document/9458653)]
+- [Mohammed Abouzour](https://dblp.org/pid/32/8707.html), [Günes Aluç](https://dblp.org/pers/hd/a/Alu=ccedil=:G=uuml=nes), Ivan T. Bowman, Xi Deng, Nandan Marathe, Sagar Ranadive, Muhammed Sharique, John C. Smirnios: Bringing Cloud-Native Storage to SAP IQ. SIGMOD 2021. [[Paper](https://dl.acm.org/doi/10.1145/3448016.3457563)]
 
 ### 2020
 
