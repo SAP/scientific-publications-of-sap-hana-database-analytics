@@ -8,6 +8,7 @@ List of scientific publications from SAP HANA Database & Analytics
 
 ### 2026
 
+- Vekil Bekmyradov, Thomas Bach, Alexander Berndt, Noah C. Puetz, Bartosz Bogacz, Thomas Bartz-Beielstein: Evaluating LLM-Based Test Generation for a Large Industrial C++ Database System. A Case Study on SAP HANA. ESEM-SEIP 2026
 - Alexander Berndt, Thomas Bach, Rainer Gemulla, Marcus Kessel, Sebastian Baltes: On the Flakiness of LLM-Generated Tests for Industrial and Open-Source Database Management Systems. ICSE-SEIP 2026
 - Alexander Berndt, Vekil Bekmyradov, Rainer Gemulla, Marcus Kessel, Thomas Bach, Sebastian Baltes: Can We Classify Flaky Tests Using Only Test Code?. SANER 2026
 - Alexander Berndt, Thomas Bach, Sebastian Baltes: Flaky Tests in a Large Industrial Database Management System: An Empirical Study of Fixed Issue Reports for SAP HANA. FTW 2026
