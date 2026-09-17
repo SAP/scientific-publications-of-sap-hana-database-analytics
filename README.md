@@ -8,6 +8,9 @@ List of scientific publications from SAP HANA Database & Analytics
 
 ### 2026
 
+
+- Andreas Boltres, Niklas Freymuth, Gerhard Neumann: Can Neural Networks Provide Latent Embeddings for Telemetry-Aware Greedy Routing? 7th KuVS Fachgespräch on Machine Learning in Networking (MaLeNe), 2026. [[Paper](https://arxiv.org/abs/2602.12798)]
+- Andreas Boltres, Niklas Freymuth, Benjamin Schichtholz, Michael König, Gerhard Neumann: Towards Near-Real-Time Telemetry-Aware Routing with Neural Routing Algorithms. Transactions on Machine Learning Research, 2026. [[Paper](https://openreview.net/pdf?id=jmk2SoQklg)]
 - Duong Bui, Stefan Grintz, Alexander Berndt, Thomas Bach: Using Large Language Models to Support Automation of Failure Management in CI/CD Pipelines: A Case Study in SAP HANA. SANER 2026
 - Vekil Bekmyradov, Thomas Bach, Alexander Berndt, Noah C. Puetz, Bartosz Bogacz, Thomas Bartz-Beielstein: Evaluating LLM-Based Test Generation for a Large Industrial C++ Database System. A Case Study on SAP HANA. ESEM-SEIP 2026
 - Alexander Berndt, Thomas Bach, Rainer Gemulla, Marcus Kessel, Sebastian Baltes: On the Flakiness of LLM-Generated Tests for Industrial and Open-Source Database Management Systems. ICSE-SEIP 2026
