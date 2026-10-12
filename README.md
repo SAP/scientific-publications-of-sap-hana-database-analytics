@@ -8,7 +8,7 @@ List of scientific publications from SAP HANA Database & Analytics
 
 ### 2026
 
-
+- Tobias Götz, Daniel Ritter, Muhammad El-Hindi, Jana Giceva: Interoperable ACID Transactions for Open Table Formats. 52nd International Conference on Very Large Data Bases (VLDB 2026) [[Paper](https://www.vldb.org/pvldb/vol19/p3216-goetz.pdf)]
 - Andreas Boltres, Niklas Freymuth, Gerhard Neumann: Can Neural Networks Provide Latent Embeddings for Telemetry-Aware Greedy Routing? 7th KuVS Fachgespräch on Machine Learning in Networking (MaLeNe), 2026. [[Paper](https://arxiv.org/abs/2602.12798)]
 - Andreas Boltres, Niklas Freymuth, Benjamin Schichtholz, Michael König, Gerhard Neumann: Towards Near-Real-Time Telemetry-Aware Routing with Neural Routing Algorithms. Transactions on Machine Learning Research, 2026. [[Paper](https://openreview.net/pdf?id=jmk2SoQklg)]
 - Duong Bui, Stefan Grintz, Alexander Berndt, Thomas Bach: Using Large Language Models to Support Automation of Failure Management in CI/CD Pipelines: A Case Study in SAP HANA. SANER 2026
