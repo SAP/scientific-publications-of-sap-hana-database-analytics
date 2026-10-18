@@ -8,6 +8,10 @@ List of scientific publications from SAP HANA Database & Analytics
 
 ### 2026
 
+- Minseon Ahn, Donghun Lee, Norman May, Jimmy Kim, Daniel Ritter, Oliver Rebholz (SAP), Thomas Willhalm, Yash Gupta, Tarik Yuksek (Intel), Byeonghun Hwang, Kyumin Park, Seungpyo Cho (Samsung): Locality-Aware Memory Tiering with CXL for In-Memory Database Management Systems. DatenBank Spektrum 2026
+- Sungmin Kang (NUS), Sumi Yun (SAP Labs Korea), Jingun Hong (SAP Labs Korea), Shin Yoo (KAIST), Gabin An (Korea University): Finding the Needle in the Crash Stack: Industrial-Scale Crash Root Cause Localization with AutoCrashFL. ICSE-SEIP 2026. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3786583.3786874)]
+- Torsten Mandel, Jonathan Bader (Technical University of Berlin), Hanyoung Yoo, Stephan Kraft: Intelligent resource prediction for SAP HANA continuous integration build workloads. ICST 2026. [[Paper](https://arxiv.org/pdf/2604.12673)]
+- Jihoon Jung, Chansong You, Jingun Hong, Thomas Bach, Gabin An (Korea University): Disassembly-Augmented Root Cause Analysis for C/C++ Segmentation Faults in SAP HANA. ASE 2026 Industrial Showcase. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3832783.3834461)]
 - Tobias Götz, Daniel Ritter, Muhammad El-Hindi, Jana Giceva: Interoperable ACID Transactions for Open Table Formats. 52nd International Conference on Very Large Data Bases (VLDB 2026) [[Paper](https://www.vldb.org/pvldb/vol19/p3216-goetz.pdf)]
 - Andreas Boltres, Niklas Freymuth, Gerhard Neumann: Can Neural Networks Provide Latent Embeddings for Telemetry-Aware Greedy Routing? 7th KuVS Fachgespräch on Machine Learning in Networking (MaLeNe), 2026. [[Paper](https://arxiv.org/abs/2602.12798)]
 - Andreas Boltres, Niklas Freymuth, Benjamin Schichtholz, Michael König, Gerhard Neumann: Towards Near-Real-Time Telemetry-Aware Routing with Neural Routing Algorithms. Transactions on Machine Learning Research, 2026. [[Paper](https://openreview.net/pdf?id=jmk2SoQklg)]
